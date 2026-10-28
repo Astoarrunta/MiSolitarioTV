@@ -16,6 +16,16 @@ jobs:
         java-version: '21'
         distribution: 'temurin'
 
+    # Este paso es el que arregla el problema:
+    - name: Ensure app directory exists
+      run: |
+        if [ ! -d "app" ] && [ -d "SolitarioTV/app" ]; then
+          echo "La carpeta app está dentro de SolitarioTV. Moviendo archivos..."
+          mv SolitarioTV/* .
+          mv SolitarioTV/.* . 2>/dev/null || true
+          rmdir SolitarioTV
+        fi
+
     - name: Generate Gradle Wrapper
       run: gradle wrapper --gradle-version 8.7
 
