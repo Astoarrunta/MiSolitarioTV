@@ -1,0 +1,116 @@
+ El volumen de la unidad C es OsDisk
+ El n£mero de serie del volumen es: 8612-8D36
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV
+
+28/10/26  21:08    <DIR>          .
+28/10/26  14:17    <DIR>          ..
+28/10/26  13:58    <DIR>          app
+28/10/26  13:58               142 build.gradle.kts
+28/10/26  21:08                 0 estructura.txt
+28/10/26  13:58    <DIR>          gradle
+28/10/26  13:58                59 gradle.properties
+28/10/26  13:58               823 README.txt
+28/10/26  13:58               280 settings.gradle.kts
+               5 archivos          1.304 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app
+
+28/10/26  13:58    <DIR>          .
+28/10/26  21:08    <DIR>          ..
+28/10/26  13:58               738 build.gradle.kts
+28/10/26  13:58    <DIR>          src
+               1 archivos            738 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58    <DIR>          main
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58             1.094 AndroidManifest.xml
+28/10/26  13:58    <DIR>          assets
+28/10/26  13:58    <DIR>          java
+28/10/26  13:58    <DIR>          res
+               1 archivos          1.094 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\assets
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58         1.055.214 index.html
+               1 archivos      1.055.214 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\java
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58    <DIR>          com
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\java\com
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58    <DIR>          solitario
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\java\com\solitario
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58    <DIR>          tv
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\java\com\solitario\tv
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58             1.350 MainActivity.kt
+               1 archivos          1.350 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\res
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58    <DIR>          drawable
+28/10/26  13:58    <DIR>          values
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\res\drawable
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58               716 banner.xml
+28/10/26  13:58               599 ic_launcher.xml
+               2 archivos          1.315 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\app\src\main\res\values
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58                72 strings.xml
+               1 archivos             72 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\gradle
+
+28/10/26  13:58    <DIR>          .
+28/10/26  21:08    <DIR>          ..
+28/10/26  13:58    <DIR>          wrapper
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\User\Downloads\SolitarioTV\SolitarioTV\gradle\wrapper
+
+28/10/26  13:58    <DIR>          .
+28/10/26  13:58    <DIR>          ..
+28/10/26  13:58               200 gradle-wrapper.properties
+               1 archivos            200 bytes
+
+     Total de archivos en la lista:
+              13 archivos      1.061.287 bytes
+              41 dirs  65.377.660.928 bytes libres
