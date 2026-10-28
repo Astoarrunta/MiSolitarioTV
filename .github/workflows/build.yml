@@ -16,19 +16,10 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    - name: Setup Android SDK
-      uses: android-actions/setup-android@v3
-
     - name: Build with Gradle
       run: |
-        if [ -f "./gradlew" ]; then
-          chmod +x ./gradlew
-          ./gradlew assembleDebug
-        else
-          echo "No gradlew found. Need to generate wrapper."
-          gradle wrapper
-          ./gradlew assembleDebug
-        fi
+        chmod +x ./gradlew
+        ./gradlew assembleDebug
 
     - name: Upload APK
       uses: actions/upload-artifact@v4
